@@ -75,23 +75,6 @@ The IMS System streamlines day-to-day inventory operations by managing **current
 - **Tools:** Git, Postman, Excel Reporting, Google Sheets
 - **Deployment:** Internal Company Network / Internal Server
 
-## 📂 Repository Structure
-
-ims-system-documentation/
-│
-├── README.md
-├── docs/
-│   ├── architecture-diagram.png
-│   ├── screenshots/
-│   │   ├── dashboard.png
-│   │   ├── inventory-list.png
-│   │   ├── stock-in.png
-│   │   ├── stock-out.png
-│   │   ├── reports.png
-│   └── project-summary.pdf (optional)
-│
-└── LICENSE
-
 ## 🧱 System Architecture (High Level)
 ```txt
 User → Frontend UI → Backend API / Business Logic → Database → Reports & Dashboard
